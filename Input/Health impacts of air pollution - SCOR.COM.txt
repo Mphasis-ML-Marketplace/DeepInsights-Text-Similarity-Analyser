@@ -1,0 +1,17 @@
+Numerous studies have found an association between air pollution and several adverse
+health effects in the general population. These effects range from subclinical effects
+to premature death, and include notably the following consequences:
+Increased respiratory ailments (bronchiolitis, rhinopharyngitis, bronchial hypersecretions);
+Degradated ventilator function (lower breathing capacity, asthma, coughing);
+Eye irritation;
+Increased cardiovascular morbidity;
+Depleted immune system;
+Impact on short-term mortality due to respiratory and cardiovascular diseases;
+Impact on long-term mortality linked to the carcinogenic effect of pollutants.
+Air pollution is a major cause of non-communicable diseases. It is estimated that at
+least 3% of cardiopulmonary and 5% of lung cancer deaths are attributable to PM
+globally. The most recent study on the Global Burden of Disease estimates that 7.5%
+of deaths globally were attributable to ambient air pollution in 2016. In the same year,
+27.5% of deaths due to Lower Respiratory Tract Infections and 26.8% of deaths due to
+Chronic Obstructive Pulmonary Diseases were linked to air pollution. This chapter will
+review the impact of air pollution on the major sources of deaths globally
