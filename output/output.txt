@@ -1,0 +1,4 @@
+|----------------| Document-1 | Document-2 | Document-3 |
+| Document-1 |           1          |       0.167       |        0.648     |
+| Document-2 |      0.167       |           1           |        0.070     |
+| Document-3 |      0.648       |       0.070       |             1        |
